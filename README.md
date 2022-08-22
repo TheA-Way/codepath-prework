@@ -1,12 +1,10 @@
 ## Change Text Colour
 
 ### App Description
-changes colour of text when button is pressed
+Changes colour of text when button is pressed
 
 ### App Walk-though
 <img src="http://g.recordit.co/KcU6SaOzWD.gif" width=200><br>
-
-`TODO://` In the User stories section below, add an `x` between the `-[ ]` like this `- [x]` for any user story you complete. (☝️ Remove this paragraph after after checking off user stories)
 
 ### Required User Stories
 - [x] 1. User sees custom text in a label - Hello from {name}!
